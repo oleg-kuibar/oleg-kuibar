@@ -102,6 +102,7 @@ I'm always eager to dive into the complexities of backend and learn about best p
 ## 🌱 Current Learning/Projects
 
 - 🔭 I’m currently diving deep into Microfrontends and its benefits using Single-Spa and/or Module Federation.
+- - Single Spa POC with React, Angular, Tailwind and GCP [Link](https://github.com/Single-Spa-Microfrontends)
 - 🌱 Exploring GraphQL for efficient data fetching
 - 👯 I’m looking to collaborate on open-source FE projects or any interesting innovations in the tech world.
 - 🤔 I’m seeking insights about [WebAssembly and its potential with web applications
