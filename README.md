@@ -112,13 +112,3 @@ I'm always eager to dive into the complexities of backend and learn about best p
 - LinkedIn: [Oleg Kuibar](https://www.linkedin.com/in/olegkuibar/)
 - Email: [kuibar.oleg@gmail.com](mailto:kuibar.oleg@gmail.com)
 
-## 📊 My GitHub Journey With Public Repos
-
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=oleg-kuibar&show_icons=true&theme=radical)
-
-_Note: These GitHub stats are auto-generated using [GitHub Readme Stats](https://github.com/anuraghazra/github-readme-stats)._
-
-## 🎈 Fun Fact
-
-When I'm not engrossed in code, you'll find me [a hobby or activity, e.g., "hiking the trails" or "playing the guitar"].
-
