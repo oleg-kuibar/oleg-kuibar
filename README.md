@@ -105,7 +105,7 @@ I'm always eager to dive into the complexities of backend and learn about best p
 - - [Single Spa POC with React, Angular, Tailwind and GCP](https://github.com/Single-Spa-Microfrontends)
 - 🌱 Exploring GraphQL for efficient data fetching
 - 👯 I’m looking to collaborate on open-source FE projects or any interesting innovations in the tech world.
-- 🤔 I’m seeking insights about [WebAssembly and its potential with web applications
+- 🤔 I’m seeking insights about WebAssembly and its potential with web applications
 - 💬 Let's discuss the future of frontend tech, or chat about the latest in software engineering!
 
 ## 📫 How to Reach Out
