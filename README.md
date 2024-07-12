@@ -12,29 +12,24 @@ Frontend development is where my true passion lies. Crafting visually stunning a
   
   - **Languages & Libraries**:
     - **JavaScript (ES6+)**: The cornerstone of web interactivity.
-    - **TypeScript**: Bringing strong typing to JavaScript.
-    - **React**: Creating dynamic, efficient, and reusable UI components.
+    - ❤️ **TypeScript**: Bringing strong typing to JavaScript.
+    - ❤️ **React**: Creating dynamic, efficient, and reusable UI components.
     - **Vue.js**: Progressive framework for building user interfaces.
     - **Angular**: A complete toolkit for building large-scale applications.
+    - ❤️ **Zod**: TypeScript-first schema validation with static type inference at runtime
     
   - **Styling & Layout**:
     - **CSS3**: Animations, Grid, Flexbox, and more.
     - **Sass/SCSS**: Extending CSS capabilities.
-    - **Styled Components**: Component-scoped styles in React.
-    - **Bootstrap**: Responsive design and commonly used UI components.
-    - **Tailwind CSS**: Utility-first CSS framework.
+    - ❤️ **Tailwind CSS**: Utility-first CSS framework.
     
   - **State Management**:
-    - **Redux**: Predictable state container for JS apps.
-    - **Vuex**: State management for Vue.
-    - **MobX**: Simple, scalable state management.
-    - **Zustand & Recoil**: The new kids on the block for React state management.
+    - ❤️ **Zustand**: React state management.
     
   - **Performance & Optimization**:
     - **WebPack**: Module bundler and task runner.
-    - **Babel**: JavaScript compiler.
+    - ❤️ **Vite**: JavaScript compiler.
     - **Lighthouse**: Auditing, performance metrics, and best practices for the web.
-    - **PWA**: Building progressive web apps for offline capabilities.
     
   - **Animation & Graphics**:
     - **Three.js**: 3D graphics library.
@@ -43,16 +38,15 @@ Frontend development is where my true passion lies. Crafting visually stunning a
     - **Framer & Framer Motion**: Interactive design and motion.
     
   - **Testing & Quality Assurance**:
-    - **Jest**: JavaScript testing solution.
-    - **React Testing Library**: Lightweight solution for testing React components.
-    - **Cypress**: End-to-end testing.
-    - **Storybook**: UI component explorer for frontend developers.
+    - ❤️ **Vitest**: JavaScript testing solution.
+    - ❤️ **React Testing Library**: Lightweight solution for testing React components.
+    - ❤️ **Playwrite**: End-to-end testing.
+    - ❤️ **Storybook**: UI component explorer for frontend developers.
     
   - **Tools & Dev Environment**:
-    - **ESLint & Prettier**: Linting and code formatting.
-    - **Vite & Snowpack**: Faster frontend tooling.
+    - ❤️ **ESLint & Prettier**: Linting and code formatting.
     - **VSCode**: With a sprinkle of extensions for frontend magic.
-    - **WebStorm**: JetBrains' powerful IDE for modern JavaScript development.
+    - ❤️ **WebStorm**: JetBrains' powerful IDE for modern JavaScript development.
   
   The vast landscape of frontend technologies keeps me on my toes. There's always something new around the corner, and I'm up for every challenge. Whether you're looking to collaborate on a groundbreaking UI project or need insights on frontend best practices, let's weave some web wonders together!
 
@@ -63,9 +57,8 @@ Frontend development is where my true passion lies. Crafting visually stunning a
   <summary>Expand
 
 While frontend development captures my heart, I love to venture into the backend world. Here are some technologies and tools I've worked with or am exploring:</summary>
-  - **Languages**:
+  - **Languages & Tools**:
   - **JavaScript/TypeScript**: with Node.js frameworks like Express.js, Nest.js
-  - **C#**: with  .NET framework
   
 - **Databases**:
   - **Relational**: PostgreSQL, MySQL, SQLite
@@ -104,9 +97,6 @@ I'm always eager to dive into the complexities of backend and learn about best p
 - 🔭 I’m currently diving deep into Microfrontends and its benefits using Single-Spa and/or Module Federation.
 - - [Single Spa POC with React, Angular, Tailwind and GCP](https://github.com/Single-Spa-Microfrontends)
 - 🌱 Exploring GraphQL for efficient data fetching
-- 👯 I’m looking to collaborate on open-source FE projects or any interesting innovations in the tech world.
-- 🤔 I’m seeking insights about WebAssembly and its potential with web applications
-- 💬 Let's discuss the future of frontend tech, or chat about the latest in software engineering!
 
 ## 📫 How to Reach Out
 
