@@ -8,7 +8,7 @@ I'm a Frontend Enthusiast from Toronto. While I primarily focus on frontend tech
 <details>
   <summary>Expand
 
-Frontend development is where my true passion lies. Crafting visually stunning and responsive user interfaces while ensuring top-notch performance is my daily grind. Here's a taste of the tools and technologies I've honed my skills on:</summary>
+Frontend development is where my true passion lies. Crafting visually stunning and responsive user interfaces while ensuring top-notch performance is my daily grind. Here's a taste of the tools and technologies I've honed my skills on (click to expand):</summary>
   
   - **Languages & Libraries**:
     - **JavaScript (ES6+)**: The cornerstone of web interactivity.
@@ -56,7 +56,7 @@ Frontend development is where my true passion lies. Crafting visually stunning a
 <details>
   <summary>Expand
 
-While frontend development captures my heart, I love to venture into the backend world. Here are some technologies and tools I've worked with or am exploring:</summary>
+While frontend development captures my heart, I love to venture into the backend world. Here are some technologies and tools I've worked with or am exploring (click to expand):</summary>
   - **Languages & Tools**:
   - **JavaScript/TypeScript**: with Node.js frameworks like Express.js, Nest.js
   
