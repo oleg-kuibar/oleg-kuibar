@@ -31,22 +31,11 @@ Frontend development is where my true passion lies. Crafting visually stunning a
     - ❤️ **Vite**: JavaScript compiler.
     - **Lighthouse**: Auditing, performance metrics, and best practices for the web.
     
-  - **Animation & Graphics**:
-    - **Three.js**: 3D graphics library.
-    - **D3.js**: Data-driven documents for visualizations.
-    - **GSAP**: The GreenSock Animation Platform.
-    - **Framer & Framer Motion**: Interactive design and motion.
-    
   - **Testing & Quality Assurance**:
     - ❤️ **Vitest**: JavaScript testing solution.
     - ❤️ **React Testing Library**: Lightweight solution for testing React components.
     - ❤️ **Playwrite**: End-to-end testing.
     - ❤️ **Storybook**: UI component explorer for frontend developers.
-    
-  - **Tools & Dev Environment**:
-    - ❤️ **ESLint & Prettier**: Linting and code formatting.
-    - **VSCode**: With a sprinkle of extensions for frontend magic.
-    - ❤️ **WebStorm**: JetBrains' powerful IDE for modern JavaScript development.
   
   The vast landscape of frontend technologies keeps me on my toes. There's always something new around the corner, and I'm up for every challenge. Whether you're looking to collaborate on a groundbreaking UI project or need insights on frontend best practices, let's weave some web wonders together!
 
@@ -94,8 +83,7 @@ I'm always eager to dive into the complexities of backend and learn about best p
 
 ## 🌱 Current Learning/Projects
 
-- 🔭 I’m currently diving deep into Microfrontends and its benefits using Single-Spa and/or Module Federation.
-- - [Single Spa POC with React, Angular, Tailwind and GCP](https://github.com/Single-Spa-Microfrontends)
+- 🔭 [Single Spa POC with React, Angular, Tailwind and GCP](https://github.com/Single-Spa-Microfrontends)
 - 🌱 Exploring GraphQL for efficient data fetching
 
 ## 📫 How to Reach Out
