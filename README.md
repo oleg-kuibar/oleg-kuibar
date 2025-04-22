@@ -17,6 +17,7 @@ Frontend development is where my true passion lies. Crafting visually stunning a
     - **Vue.js**: Progressive framework for building user interfaces.
     - **Angular**: A complete toolkit for building large-scale applications.
     - ❤️ **Zod**: TypeScript-first schema validation with static type inference at runtime
+    - ❤️ **Shadcn**: A set of beautifully-designed, accessible components and a code distribution platform
     
   - **Styling & Layout**:
     - **CSS3**: Animations, Grid, Flexbox, and more.
@@ -57,7 +58,7 @@ While frontend development captures my heart, I love to venture into the backend
 - **API Tools**:
   - **RESTful services** using various frameworks
   - **GraphQL**: Using tools like Apollo Server
-  - **gRPC**: For high-performance microservices
+  - **tRPC**: For high-performance microservices
   
 - **Infrastructure & Deployment**:
   - **Docker**: Containerization of applications
@@ -83,8 +84,10 @@ I'm always eager to dive into the complexities of backend and learn about best p
 
 ## 🌱 Current Learning/Projects
 
-- 🔭 [Single Spa POC with React, Angular, Tailwind and GCP](https://github.com/Single-Spa-Microfrontends)
-- 🌱 Exploring GraphQL for efficient data fetching
+- 🧊 🔭 [Single Spa POC with React, Angular, Tailwind and GCP](https://github.com/Single-Spa-Microfrontends)
+- 🧊 🌱 Exploring GraphQL for efficient data fetching
+- 🔥 🗼 Time Agent App powered by AI that simplifies time tracking and reporting for developers in consulting sector
+- 🔥 📲 Skype's Landline Calls Alternative App with AI Notes, Task Management and Reminders
 
 ## 📫 How to Reach Out
 
